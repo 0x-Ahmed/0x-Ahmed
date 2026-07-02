@@ -1,109 +1,123 @@
+<a id="top"></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:8B5CF6&height=220&section=header&text=Ahmed%20M%20Ibrahim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%26%20AI%20Student&descAlignY=58&descSize=18&descColor=E5E5E5" alt="header banner" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+M+Ibrahim;Data+Science+%26+AI+Student;Turning+Data+Into+Decisions" alt="Typing SVG" />
+[![Gmail](https://img.shields.io/badge/ooomm53649%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ooomm53649@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x-Ahmed)
+![Location](https://img.shields.io/badge/Amman%2C_Jordan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/ooomm53649%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ooomm53649@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x-Ahmed)
-![Location](https://img.shields.io/badge/Amman%2C_Jordan-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Data+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
 
-## About Me
+## 🟣 About Me
 
-I'm a Data Science & AI student building a general, well-rounded foundation across the full data pipeline — from data collection and analysis to modeling and visualization.
+- 🎓 Data Science & AI student building a broad, solid foundation across the full data pipeline
+- 🔭 Working across machine learning, data visualization, and simulation projects
+- 🐧 Comfortable in Linux environments, fluent in SQL for data work
+- 🎯 Aiming to grow into a well-rounded Data Science / AI professional
+- 🤝 Open to collaborating on data-driven and open-source work
 
-- 🔭 Currently working on academic and personal projects spanning machine learning, data visualization, and simulation
-- 🌱 Focused on strengthening my fundamentals in deep learning and analytics
-- 🐧 Comfortable working in Linux environments and writing SQL for data work
-- 🎯 Long-term goal: grow into a well-rounded Data Science / AI role
-- ⚡ Open to collaboration on data-driven and open-source projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
 
-<br>
+## 🟣 Currently Exploring
 
-## Currently Learning
+- Deepening my understanding of deep learning architectures
+- Strengthening MLOps fundamentals — taking models from notebook to production
+- Getting comfortable with core cloud concepts for data workflows
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps_Fundamentals-000000?style=for-the-badge&logo=mlflow&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Basics-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
 
-<br>
+## 🟣 Tech Stack
 
-## Tech Stack
+<div align="center">
 
 **Languages & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=python,bash,mysql&theme=dark" alt="languages and databases" />
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
 
 **Frameworks & Data Tools**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
-
-**Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
-
 <br>
-
-## Featured Projects
-
-**🎓 CNN-Based Exam Behavior Detection System**
-Deep learning model built with TensorFlow/Keras to classify exam-taking behavior across five behavioral classes, achieving 91% test accuracy. Covered the full pipeline — data preprocessing, model architecture design, training, and evaluation — as part of a Deep Learning course project.
-
-`Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
-*Academic project — private repository*
-
----
-
-**📊 Retail Analytics Dashboard (Power BI)**
-Designed an interactive Power BI dashboard analyzing a multi-category retail dataset, including custom DAX measures and visual storytelling for sales, profit, and customer trends. Served as Dashboard Designer within a data visualization course project.
-
-`Power BI` `DAX` `Data Visualization` `SQL`
-*Academic project — private repository*
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pandas,numpy,sklearn&theme=dark" alt="frameworks and data tools" />
 <br>
+<img src="https://img.shields.io/badge/Power_BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
 
-## GitHub Statistics
+<br><br>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0x-Ahmed&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Ahmed&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&bg_color=00000000" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=0x-Ahmed&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=c9c9c9" alt="GitHub Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x-Ahmed&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="Contribution Graph" />
+**Platforms & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,jupyter&theme=dark" alt="platforms and tools" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
 
-## Goals
+## 🟣 Featured Projects
+
+> **🎓 CNN-Based Exam Behavior Detection System**
+> Deep learning model classifying exam-taking behavior across five behavioral classes, achieving **91% test accuracy**. Covered the full pipeline — preprocessing, architecture design, training, and evaluation — as a Deep Learning course project.
+>
+> `Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
+> *Academic project — private repository*
+
+> **📊 Retail Analytics Dashboard**
+> Interactive Power BI dashboard analyzing a multi-category retail dataset, with custom DAX measures and visual storytelling for sales, profit, and customer trends. Built as Dashboard Designer for a data visualization course project.
+>
+> `Power BI` `DAX` `Data Visualization` `SQL`
+> *Academic project — private repository*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0x-Ahmed&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=e6e6e6&icon_color=8B5CF6&bg_color=00000000" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Ahmed&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=e6e6e6&bg_color=00000000" alt="Top Languages" />
+
+<img width="100%" src="https://github-readme-streak-stats.demolab.com/?user=0x-Ahmed&theme=dark&hide_border=true&background=00000000&stroke=2D2D2D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=e6e6e6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=c9c9c9" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x-Ahmed&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6" alt="Contribution Graph" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
+
+## 🟣 Achievements
+
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=0x-Ahmed&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:8B5CF6&height=3" alt="divider" />
+
+## 🟣 Goals
 
 - 📈 Build a portfolio of end-to-end data science and ML projects
 - 🤝 Start contributing to open-source repositories
 - 📚 Deepen expertise in deep learning and applied statistics
 - 💼 Grow into a well-rounded Data Science / AI role
 
-<br>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=0x-Ahmed&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=0x-Ahmed&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0F0F0F&height=150&section=footer" alt="footer banner" />
+
+<div align="right">
+
+<a href="#top">⬆ Back to top</a>
 
 </div>
